@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Suqing Liu # the main title
 
-tagline: 花之朝，月之夕，剥一黄橙，暖半壶酒 # it will display as the sub-title
+tagline: A statistics learner. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
