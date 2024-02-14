@@ -5,5 +5,4 @@ order: 4
 ---
 
 > A junior student at Tsinghua University, majoring in Mathematics & Physics, with a minor in Statistics.
-{: .prompt-tip }
-<!-- Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page. -->
+[//]: # Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.{: .prompt-tip }
