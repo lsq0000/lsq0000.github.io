@@ -52,7 +52,7 @@ Sujai Hiremath, Jacqueline R.M.A. Maasch, <u>Mengxiao Gao</u> , Promit Ghosal, K
             <br>
             Advisor: <a href="https://kyra-gan.github.io/">Kyra Gan</a>
             <br>
-            Mentor: <a href="https://sujaihiremath.github.io/">Sujai Hiremath</a>,Jacqueline Maasch
+            Mentor: <a href="https://sujaihiremath.github.io/">Sujai Hiremath</a>, Jacqueline Maasch
             <br>
         </td>
     </tr>
