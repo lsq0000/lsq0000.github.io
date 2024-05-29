@@ -9,6 +9,7 @@ I am currently a junior student at Weiyang College, Tsinghua University, pursuin
 In addition to my undergraduate coursework, I am fortunate to be mentored by Professor  [Kyra Gan](https://kyra-gan.github.io/), with whom I explore local discovery and hybrid global causal discovery with local search strategies. My research primarily centers on devising robust and efficient inference and causal discovery methods. More broadly, I am captivated by the challenge of constructing abstract mathematical models to address real-world problems and applying interpretable statistical techniques to data from physics, biology, social sciences, and engineering.
 
 I am always open to engaging in discussions or forging new friendships. Please feel free to reach out to me via email if you share similar interests or simply wish to connect.
+[Resume](CVofMengxiaoGao.pdf) (Updated in March 2024)
 
 <h2><div id="pub">Publications & Preprints</div></h2>
 
