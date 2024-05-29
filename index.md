@@ -13,7 +13,8 @@ I am always open to engaging in discussions or forging new friendships. Please f
 <h2><div id="pub">Publications & Preprints</div></h2>
 
 **[Hybrid Global Causal Discovery with Local Search](https://arxiv.org/abs/2405.14496)**
-Sujai Hiremath, Jacqueline R.M.A. Maasch, **[Mengxiao Gao]**, Promit Ghosal, Kyra Gan
+<br>
+Sujai Hiremath, Jacqueline R.M.A. Maasch, <u>Mengxiao Gao</u> , Promit Ghosal, Kyra Gan
 
 <h2><div id="education">Education</div></h2>
 
