@@ -6,8 +6,6 @@ layout: homepage
 
 I am currently a senior student at Zhili College, Tsinghua University, pursuing a major in Mathematics & Physics, with a minor in Statistics.
 
-[Resume](CV.pdf) (Updated in Oct 2024)
-
 <h2><div id="pub">Publications & Preprints</div></h2>
 
 
